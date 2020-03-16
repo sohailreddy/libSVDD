@@ -47,7 +47,7 @@ The 'examples' folder contains two examples for using libSVDD in a Fortran and P
 
 If you use libSVDD, please cite the following 
 ```
-Sohail R. Reddy, "libSVDD: A Library for Support Vector Data Description," 2020, https://github.com/sohailrreddy/libSVDD
+Sohail R. Reddy, "libSVDD: A Library for Support Vector Data Description," 2020, DOI:10.5281/zenodo.3712443
 ```
 
 
