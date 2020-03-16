@@ -1,4 +1,4 @@
-# libSVDD - A Library for Support Vector Domain Description
+# libSVDD - A Library for Support Vector Data Description
 Copyright, 2020 Sohail R. Reddy  (sredd001@fiu.edu)
 
 ## Version v1.0.0
@@ -44,7 +44,7 @@ The 'examples' folder contains two examples for using libSVDD in a Fortran and P
 
 If you use libSVDD, please cite the following 
 ```
-S.R.Reddy, "libSVDD: A Library for Support Vector Domain Description," 2020
+S.R.Reddy, "libSVDD: A Library for Support Vector Data Description," 2020
 ```
 
 
