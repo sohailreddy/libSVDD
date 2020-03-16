@@ -40,7 +40,7 @@ cd src/; make
 
 ### Using libSVDD
 
-The 'examples' folder contains two examples for using libSVDD in a Fortran and Python environment 
+The 'examples' folder contains two examples for using libSVDD in a Fortran and Python environment. The 'libSVDD.pdf' in the 'docs/' folder contains the theory and information on the use of libSVDD.
 
 
 ## How to Cite
