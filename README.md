@@ -3,7 +3,6 @@ Copyright, 2020 Sohail R. Reddy  (sredd001@fiu.edu)
 
 ## Version v1.0.0
 
-<img src="/images/Training.png" width="400">             <img src="/images/Testing.png" width="400">
 
 libSVDD is a library for single and multi-class classification written in object oriented Fortran 90 with a Python API. The library contains the following kernels:
 
@@ -13,6 +12,10 @@ libSVDD is a library for single and multi-class classification written in object
 * (4) Laplace kernel: k(x,y) = exp(-(norm(x-y))/s)
 * (5) Sigmoid kernel: k(x,y) = tanh(g*x'*y+c)
 * (6) Polynomial kernel: k(x,y) = (x'*y+c)^d
+
+
+<img src="/images/Training.png" width="400">             <img src="/images/Testing.png" width="400">
+
 
 ## Getting Started
 
