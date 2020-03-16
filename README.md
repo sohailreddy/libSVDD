@@ -3,7 +3,7 @@ Copyright, 2020 Sohail R. Reddy  (sredd001@fiu.edu)
 
 ## Version v1.0.0
 
-<img src="/images/Turbine.png" width="210">             <img src="/images/WindFarmLayout.png" width="400">
+<img src="/images/Training.png" width="400">             <img src="/images/Testing.png" width="400">
 
 libSVDD is a library for single and multi-class classification written in object oriented Fortran 90 with a Python API. The library contains the following kernels:
 
