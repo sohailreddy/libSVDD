@@ -1,4 +1,4 @@
-# libSVDD - A Library for Support Vector Data Description
+# libSVDD: A Library for Support Vector Data Description
 Copyright, 2020 Sohail R. Reddy  (sredd001@fiu.edu)
 
 ## Version v1.0.0
